@@ -10,7 +10,7 @@ I define myself as a proactive team player who loves solving complex problems an
 
 ### 🛠️ Tech Stack & Tools
 
-I have experience working with the following technologies, tools, and methodologies:
+I have experience working with the following technologies and tools:
 
 **Backend & Languages**
 <p>
